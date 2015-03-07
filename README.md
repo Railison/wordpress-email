@@ -16,7 +16,7 @@ Foram realizados testes em diversos clientes, nos quais não era possivel o envi
 Caso queira contribuir, faça um fork e entre em contato: contato@raivinformatica.com
 ## Sobre
 
-Desenvolvida por [Stefano Diem Benatti](mailto:stefano@heavenstudio.com.br)
+Desenvolvida por [Railison Venancio](mailto:contato@raivinformatica.com)
 
 ## Colaboradores
 
